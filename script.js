@@ -6,7 +6,7 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "To my lovable Koushik! You make my life so much more beautiful just by being in it.! 💖";
+const greetingText = "To my lovable Man! You make my life so much more beautiful just by being in it.! 💖";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
