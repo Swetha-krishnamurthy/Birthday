@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "You came into my life and slowly became the person my heart feels most at home with. ❤️", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "I love the way I can be completely myself with you. In your presence, I feel bliss, cared for, and loved in a way that is so precious to me. You are not just my love, you are my safe place. 💕 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "There are so many little things about you that make me fall in love with you again and again. Sometimes I look at you and quietly think, 'How did I get so lucky to have you?' You truly mean more to me than I can ever put into words. ❤️✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "I don't just want to celebrate your birthday today. I want to be beside you for every smile, every difficult day, every little victory, and every beautiful moment that life gives us. I choose you, today and always. 😘❤️", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
